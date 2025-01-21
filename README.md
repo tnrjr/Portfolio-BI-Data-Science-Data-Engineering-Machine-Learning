@@ -32,5 +32,5 @@ O objetivo deste repositório é compartilhar projetos desenvolvidos nas áreas 
 
 Meu nome é *Tary Nascimento Rego Junior*, sou cientista de dados júnior e formado em Sistemas para Internet pela Universidade Católica de Pernambuco.
 
-Desenvolvedor de software com experiência em Python, desenvolvimento de soluções escaláveis e integrações de sistemas. Proficiente em frameworks como Flask, Dash e Spring Boot, além de práticas de desenvolvimento ágil. Apaixonado por criar código limpo, eficiente e bem documentado, colaborando em equipes multidisciplinares para entregar soluções de alto impacto.
+Cientista de Dados com expertise em Python e experiência em análise avançada, modelagem preditiva e visualização de dados. Proficiente em frameworks como Pandas, Scikit-learn e Dash, além de práticas de MLOps. Focado em extrair insights acionáveis e criar soluções de impacto com base em dados.
 
