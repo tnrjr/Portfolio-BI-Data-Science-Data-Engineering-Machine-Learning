@@ -21,12 +21,17 @@ O objetivo deste repositório é compartilhar projetos desenvolvidos nas áreas 
 * [previsao-preco-pizzas](https://github.com/TN-Junior/previsaoprecopizzas/blob/main/prev.ipynb) *
 
 
-### 2. Data Visualization:
+### 2. ETL/ELT
+
+* [etl-notes-enem](https://github.com/TN-Junior/etl-notes-enem) - *projeto de etl para analisar média da nota do enem de alunos dos anos de 2018 a 2022.*
+
+
+### 3. Data Visualization:
 
 * [Data Visualization](https://github.com/TN-Junior/data_visualization/blob/main/seaborn.ipynb) - *Análise de diferentes desáfios utilizando seaborn e matplotlib*
 
 
-### 3. Análise com Python:
+### 4. Análise com Python:
 
 * [Em Desenvolvimento...](https://github.com/)-  *Um projeto de análise de dados sobre custos de seguro médico nos EUA utilizando syntax do Python.*
 
