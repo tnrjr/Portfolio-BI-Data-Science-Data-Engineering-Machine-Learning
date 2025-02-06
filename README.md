@@ -33,7 +33,7 @@ O objetivo deste repositório é compartilhar projetos desenvolvidos nas áreas 
 
 ### 4. Análise com Python:
 
-* [Em Desenvolvimento...](https://github.com/)-  *Um projeto de análise de dados sobre custos de seguro médico nos EUA utilizando syntax do Python.*
+* [Em Desenvolvimento...](https://github.com/)-  
 
 # Sobre mim
 
