@@ -16,9 +16,9 @@ O objetivo deste repositório é compartilhar projetos desenvolvidos nas áreas 
 # Meus Projetos:
 
 ### 1. Machine Learning:
-* [heart disease prediction](https://github.com/TN-Junior/previsao-doencas-cardiacas/blob/main/prev_doencas_cardiacas.ipynb) [ENG] - *Proposta de modelo de Machine Learning para solucionar uma problemática na área de saúde, o algoritmo foi desenvolvido para prever os riscos de doenças cardíacas.*
+* [heart disease prediction](https://github.com/TN-Junior/previsao-doencas-cardiacas/blob/main/prev_doencas_cardiacas.ipynb) - *Proposta de modelo de Machine Learning para solucionar uma problemática na área de saúde, o algoritmo foi desenvolvido para prever os riscos de doenças cardíacas.*
 
-* [previsao-preco-pizzas](https://github.com/TN-Junior/previsaoprecopizzas/blob/main/prev.ipynb) *
+* [Recomendação de Filmes](https://github.com/TN-Junior/ML-RECOMENDACAO-FILMES.git) - *Com o crescimento exponencial da quantidade de informações disponíveis online, tornou-se um desafio oferecer conteúdo personalizado e relevante para os usuários. Sistemas de recomendação surgem como uma solução para esse problema, ajudando a filtrar informações e fornecer sugestões adaptadas às preferências individuais.*
 
 
 ### 2. ETL/ELT
