@@ -11,7 +11,7 @@ O objetivo deste repositório é compartilhar projetos desenvolvidos nas áreas 
 
 **Link para contato:**
 
-* [LinkedIn](https://www.linkedin.com/in/tary-nascimento-r-junior/)
+* [LinkedIn](https://www.linkedin.com/in/tary-nascimento/)
 
 # Meus Projetos:
 
@@ -21,23 +21,16 @@ O objetivo deste repositório é compartilhar projetos desenvolvidos nas áreas 
 * [Recomendação de Filmes](https://github.com/TN-Junior/ML-RECOMENDACAO-FILMES.git) - *Com o crescimento exponencial da quantidade de informações disponíveis online, tornou-se um desafio oferecer conteúdo personalizado e relevante para os usuários. Sistemas de recomendação surgem como uma solução para esse problema, ajudando a filtrar informações e fornecer sugestões adaptadas às preferências individuais.*
 
 
-### 2. ETL/ELT
+### 2. Ciência de Dados:
+
+
+### 3. Engenharia de Dados:
 
 * [etl-notes-enem](https://github.com/TN-Junior/etl-notes-enem) - *projeto de etl para analisar média da nota do enem de alunos dos anos de 2018 a 2022.*
+* [ETL-BI-LATAM](https://github.com/tnrjr/BI-Amazon-Latam.git) - *Solução de Business Intelligence simulada para o varejo na América Latina, utilizando dados reais de e-commerce do Brasil, com foco em: Construção de um Data Warehouse, Desenvolvimento de pipelines ETL, Análises estratégicas de negócio, Criação de dashboards interativos.*
 
 
-### 3. Data Visualization:
-
-* [Data Visualization](https://github.com/TN-Junior/data_visualization/blob/main/seaborn.ipynb) - *Análise de diferentes desáfios utilizando seaborn e matplotlib*
 
 
-### 4. Análise com Python:
 
-* [Em Desenvolvimento...](https://github.com/)-  
-
-# Sobre mim
-
-Meu nome é *Tary Nascimento Rego Junior*, sou cientista de dados júnior e formado em Sistemas para Internet pela Universidade Católica de Pernambuco.
-
-Cientista de Dados e Desenvolvedor Backend com expertise em Python, especializado em modelagem preditiva, análise avançada e criação de APIs escaláveis. Proficiente em frameworks como Flask, Dash e Scikit-learn, combina habilidades de dados e desenvolvimento para entregar soluções eficientes e de alto impacto.
 
